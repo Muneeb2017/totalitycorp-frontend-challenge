@@ -1,2 +1,1 @@
-# Tesla-Clone-React-JS
-
+Tesla Clone. Assignment for Totality Corp. 
